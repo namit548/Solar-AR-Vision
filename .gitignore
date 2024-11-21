@@ -73,3 +73,5 @@ crashlytics-build.properties
 Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_3_0.bundle
 Assets/Firebase/Plugins/x86_64/FirebaseCppApp-12_3_0.so
 Assets/google-services.json
+Assets/StreamingAssets/google-services-desktop.json
+Assets/StreamingAssets/google-services-desktop.json.meta
