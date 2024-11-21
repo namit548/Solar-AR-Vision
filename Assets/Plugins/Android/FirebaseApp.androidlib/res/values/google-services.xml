@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1031308617646</string>
+  <string name="google_storage_bucket" translatable="false">solararvisionauthenication.appspot.com</string>
+  <string name="project_id" translatable="false">solararvisionauthenication</string>
+  <string name="google_api_key" translatable="false">AIzaSyDT7BXfrJjNSwgC_oz3nY7hwJ7zeehAjoo</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDT7BXfrJjNSwgC_oz3nY7hwJ7zeehAjoo</string>
+  <string name="google_app_id" translatable="false">1:1031308617646:android:8c2d67680f211cd7378a3f</string>
+  <string name="default_android_client_id" translatable="false">1031308617646-ss935jti0noekchev12tim3gsvinb16i.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1031308617646-8bdqemcs3bmf1bae8tvk1d38d0tvie93.apps.googleusercontent.com</string>
+</resources>

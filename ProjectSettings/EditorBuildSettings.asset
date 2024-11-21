@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GoogeAuthentication/FireBaseLoGinGoogle.unity
+    guid: 182e4075f135d784eb2d21844a386a0c
+  - enabled: 1
+    path: Assets/Scenes/StartingScreen.unity
+    guid: c0921be578a50b4448862a50b5b60901
+  - enabled: 1
+    path: Assets/Scenes/objectMove&drag 4panel.unity
+    guid: 42f27b7463a70bb4eb224c6e90f7a7b0
+  - enabled: 1
+    path: Assets/Scenes/object move&drag 6 panel.unity
+    guid: 058a4bac9f64caa4fbc49b370ba2e734
+  - enabled: 1
+    path: Assets/Scenes/object move&drag 6 panel long.unity
+    guid: fcf3219a0674f0445867fd7ca0b7b089
+  - enabled: 1
+    path: Assets/Scenes/object move&drag 6 panel 4 legs.unity
+    guid: 93d379bd31a3a364aabfac25c5dd9fe6
+  - enabled: 1
+    path: Assets/Scenes/object move&drag 6 panel 4 legs structure.unity
+    guid: 46482ed1423213345886edd23d8db865
+  - enabled: 1
+    path: Assets/Scenes/INVETORS/INVETOR OPTIONS MENU WITH COMPANY.unity
+    guid: df3b9da1d8b401047888dafddf2ed9ca
+  - enabled: 1
+    path: Assets/Scenes/INVETORS/utl/utl Invetors.unity
+    guid: 84d915f6d22e5444390427bf8ee7f1f5
+  - enabled: 1
+    path: Assets/Scenes/INVETORS/utl/utl 3350.unity
+    guid: d141a869f1b33044e96582ee7af78b45
+  - enabled: 1
+    path: Assets/Scenes/INVETORS/utl/utl 3750.unity
+    guid: 399b57558e283714584932e5ecf447a1
+  - enabled: 1
+    path: Assets/Scenes/INVETORS/utl/utl 3000.unity
+    guid: 776fed8c831e35c4887c074f4a724bac
+  - enabled: 1
+    path: Assets/Scenes/batteries/batteries.unity
+    guid: 952fd3fd22f418947a06c6a2c7387dde
+  - enabled: 1
+    path: Assets/Scenes/PlansForCustumer.unity
+    guid: 88aa2ae9c9434a147acee586c5ea218f
+  - enabled: 1
+    path: Assets/Scenes/3kw dcr High rise/object move&drag 6 panel 4 legs dcr.unity
+    guid: 3c7fe76a64569694cb1a5794a931e2b0
+  - enabled: 1
+    path: Assets/Scenes/3kw dcr High rise/object move&drag 6 panel 4 legs dcr Custom.unity
+    guid: 047f37d3ed209e8468de8abcb5a7d5b2
+  - enabled: 1
+    path: Assets/Scenes/3kw dcr Low rise/Three kw low rise move and drag custom.unity
+    guid: cb201271737828c45a4232fbb10209a7
+  - enabled: 1
+    path: Assets/Scenes/3kw dcr Low rise/Three kw low rise move and drag.unity
+    guid: fa5521eedbaeff94a9f7d555e266e8e6
+  - enabled: 1
+    path: Assets/Scenes/Play Games.unity
+    guid: 85a5a859a01cb554bad9f894fb6421a7
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: ae0d780542554874dac7ebc4a6f117f2, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 67b71676669d6884ea28b867c4d28f66, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9281f9f4fbae1d84eba13f21671b714b, type: 2}
